@@ -12,7 +12,7 @@ Bu proje, **Kodluyoruz DİGEM (Dijital Gençlik Merkezi) Programı** kapsamında
 
 <br>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Web.png" alt="UI Tasarım 1" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Web.png" alt="UI Tasarım 1" width="1200"/></a>
 
 # 📌 Proje Hakkında
 
@@ -31,7 +31,7 @@ Platform;
 
 gibi geleceğin öne çıkan mesleklerini tanıtırken, bu alanlarda gerekli becerileri, eğitim yollarını ve kariyer planlama süreçlerini kullanıcı dostu bir deneyimle sunmaktadır.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelecegin%20Meslekleri%20UI.png" alt="UI Tasarım 2" width=""/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelecegin%20Meslekleri%20UI.png" alt="UI Tasarım 2" width=""/></a>
 
 
 # 🎯 Çözülen Problem
@@ -171,7 +171,7 @@ Modüler yapısı sayesinde yeni meslekler, eğitim içerikleri ve kariyer rehbe
 # 📱 Mobil Uyumlu Tasarım
 - Mobil cihazlarda kullanıma uygunlu "Responsive Tasarım" ile proje inşa edilmiştir.
 
-<a href="" align="center"><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Mobil%20G%C3%B6r%C3%BCn%C3%BCm.png" alt="UI Tasarım 3" width=""/></a>
+<a href="" align="center"><img align="center" src="https://github.com/StarLordBerke/gelecegin-meslekleri-kodluyoruz/blob/main/img/Gelece%C4%9Fin%20Meslekleri%20Mobil%20G%C3%B6r%C3%BCn%C3%BCm.png" alt="UI Tasarım 3" width=""/></a>
 
 
 # ✨ Öne Çıkan Özellikler
@@ -201,4 +201,8 @@ Modüler yapısı sayesinde yeni meslekler, eğitim içerikleri ve kariyer rehbe
 
 Not: Bu proje, **Kodluyoruz Bugünün Gençleri Geleceğin Meslekleri Projesi** kapsamında geliştirilmiştir.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gelecegin-meslekleri-kodluyoruz/blob/main/img/kodluyoruz_cover.jpg" alt="Kodluyoruz" width=""/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gelecegin-meslekleri-kodluyoruz/blob/main/img/kodluyoruz_cover.jpg" alt="Kodluyoruz" width=""/></a>
+
+---
+
+*Geliştirici: Berke Mert Öztürk*
